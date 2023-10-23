@@ -1,1 +1,2 @@
-npm run start# gitforest
+npm i
+npm run start
